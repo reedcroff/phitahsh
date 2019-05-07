@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aithohshio.antirepressioncrew.org/sitemap.xml
